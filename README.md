@@ -4,3 +4,7 @@ This Repository will hold all PowerBi Vizualizations for my Portfolio Projects.
 This is my First Data Vizualisation Report
 
 *Data was gotten from a company Database*
+
+
+
+## Overview 0f The Supplier Quality and Performance Dashboard
