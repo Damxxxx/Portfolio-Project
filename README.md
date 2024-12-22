@@ -31,3 +31,20 @@ The dashboard is divided into several key pages, each focusing on a different as
 
 ## Overview 0f The Supplier Quality and Performance Dashboard
 ![](Overview.png)
+
+
+**Vendor Performance:** Highlights the best and worst-performing vendors based on defect quantity and downtime.
+![](vendor.png)
+
+
+**Plant Performance:** Analyzes plant locations to identify the most problematic sites
+![](plant.png)
+
+
+**Material Performance:** Provides a breakdown of defects and downtime by material type.
+![](material.png)
+
+
+**Downtime Impact:** Quantifies downtime costs and shows the highest cost periods.
+![](downtime.png)
+
